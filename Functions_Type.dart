@@ -3,7 +3,7 @@ void main() {
 
   void bold({int? bold, bool? hidden}) {
     print(bold);
-  }
+  } 
 
   bold(bold: 10);
 
@@ -14,5 +14,5 @@ void main() {
   }
 
   function('hamza');
-  function('Hi,', 'Good morning');
+  // function('Hi,', 'Good morning');
 }

@@ -1,0 +1,21 @@
+.box {
+  margin-bottom: 20px;
+}
+
+.alert-dismissible {
+    padding-right: 0rem; 
+}
+.alert {
+     padding: 0rem 10.5px; 
+     margin-bottom: 0px;
+}
+
+.rtl .alert-dismissible {
+    padding-right: 0rem; 
+}
+.rtl .alert {
+     padding: 0rem 10.5px; 
+     margin-bottom: 0px;
+}
+
+
